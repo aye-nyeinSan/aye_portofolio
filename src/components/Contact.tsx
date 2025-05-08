@@ -41,8 +41,8 @@ export function Contact() {
           
           <div className="flex items-center space-x-3 mb-4">
             <Mail className="h-5 w-5 text-primary" />
-            <a href="mailto:your.email@example.com" className="hover:text-primary transition-colors">
-              your.email@example.com
+            <a href="mailto:ayenyeinsan.rubi@gmail.com" className="hover:text-primary transition-colors">
+             ayenyeinsan.rubi@gmail.com
             </a>
           </div>
           

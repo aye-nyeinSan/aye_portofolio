@@ -4,11 +4,10 @@ import { CheckCircle } from "lucide-react";
 export function About() {
   const skills = [
     "Frontend Development", 
-    "React & TypeScript", 
-    "UI/UX Design", 
     "Responsive Layouts",
     "Backend Development",
-    "Database Design"
+    "Database Design",
+    "CI / CD"
   ];
 
   return (

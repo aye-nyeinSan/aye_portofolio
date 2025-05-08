@@ -25,7 +25,7 @@ export function Navbar() {
     >
       <div className="container flex items-center justify-between h-16 px-4 md:px-8">
         <Link to="/" className="text-xl font-bold hover:text-primary/80 transition-colors">
-          YourName
+          AYE NYEIN SAN
         </Link>
         
         <nav className="hidden md:flex items-center space-x-6">

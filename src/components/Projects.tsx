@@ -14,26 +14,30 @@ interface Project {
 export function Projects() {
   const projects: Project[] = [
     {
-      title: "E-commerce Platform",
-      description: "A full-stack e-commerce solution with product management, shopping cart, and payment integration.",
-      tags: ["React", "Node.js", "MongoDB"],
-      liveUrl: "https://example.com",
-      githubUrl: "https://github.com/yourusername/ecommerce"
+      title: "2024 Paris Olympics Medal Report",
+      description:
+        "A website where user can check the paris olympic medal for each country.",
+      tags: ["Vue", "Node.js"],
+      liveUrl:
+        "https://project-1-olympic-report-malatang-friends-jyio.vercel.app/",
+      githubUrl:
+        "https://github.com/aye-nyeinSan/project-1-Olympic-Report-malatang-friends",
     },
     {
-      title: "Task Management App",
-      description: "A productivity application for managing tasks with drag-and-drop functionality and team collaboration features.",
-      tags: ["React", "Firebase", "Tailwind CSS"],
-      liveUrl: "https://example.com",
-      githubUrl: "https://github.com/yourusername/task-app"
+      title: "WaterMarkJavaFX",
+      description:
+        "A JavaFX application that allows users to add watermarks and resize to images.",
+      tags: ["Java", "JavaFX"],
+      githubUrl: "https://github.com/aye-nyeinSan/WaterMarkJavaFX",
     },
     {
-      title: "Portfolio Website",
-      description: "A responsive personal portfolio website designed to showcase projects and skills.",
-      tags: ["React", "TypeScript", "Tailwind CSS"],
-      liveUrl: "https://example.com",
-      githubUrl: "https://github.com/yourusername/portfolio"
-    }
+      title: "Space Invader Game",
+      description:
+        "A desktop game application that allows users to play the classic Space Invader game.",
+      tags: ["Java", "JavaFX"],
+      githubUrl: "https://github.com/aye-nyeinSan/SpaceInvaderJavaFXGame",
+    },
+  
   ];
 
   return (
